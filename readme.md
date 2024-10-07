@@ -5,9 +5,11 @@ Khongbietcode's  Profile
 <p> 
 
 ## 🌐Socials
-[![Facebook](https://www.facebook.com/profile.php?id=100074851944490) 
-[![Instagram]() 
-[![YouTube]()
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100074851944490)
+[![LinkeDin](https://img.shields.io/badge/-LinkeDin-61DAFB?logo=Linkedin)](https://www.linkedin.com/in/totrungtin/)
+
+
 
 
 
