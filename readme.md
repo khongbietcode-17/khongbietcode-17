@@ -15,16 +15,16 @@ Khongbietcode's  Profile
 ## 👨‍💻 About me:
 
  I'm an IT student from An Giang University, Vietnam.<br>
- I'm interested in web development and Graphic Design.
+ I'm interested in Web Development and Graphic Design.
 
 ### 💻 I often work on projects:
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=laravel,spring,nextjs,nuxt,react,vue" />
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,dotnet,figma,java,js,html,css" />
 </p>
 
 ### 🚀 My current development environment
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=neovim,idea,ubuntu" />
+    <img src="https://skillicons.dev/icons?i=eclipse,windows,vscode,visualstudio" />
 </p>
 
