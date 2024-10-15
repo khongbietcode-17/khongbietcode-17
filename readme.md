@@ -16,11 +16,11 @@ Khongbietcode's  Profile
 
 ### 💻 I often work on projects:
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=c,cs,cpp,dotnet,figma,java,js,html,css" />
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,dotnet,java,js,html,css" />
 </p>
 
 ### 🚀 My current development environment
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=eclipse,windows,vscode,visualstudio" />
+    <img src="https://skillicons.dev/icons?i=eclipse,windows,vscode,visualstudio,figma,ps" />
 </p>
 
