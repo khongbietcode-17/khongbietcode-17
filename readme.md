@@ -17,7 +17,7 @@ Khongbietcode's  Profile
 
 ### 💻 I often work on projects:
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=c,cs,cpp,dotnet,java,js,html,css" />
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,dotnet,java,js,html,css,php" />
 </p>
 
 ### 🚀 My current development environment
